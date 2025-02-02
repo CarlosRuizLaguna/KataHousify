@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RoverTest::testBoundaryLimits":7,"RoverTest::testExecuteCommands":7},"times":{"RoverTest::testMoveForward":0.012,"RoverTest::testTurnLeft":0,"RoverTest::testTurnRight":0,"RoverTest::testObstacleDetection":0.001,"RoverTest::testBoundaryLimits":0.024,"RoverTest::testExecuteCommands":0.01,"RoverTest::testUnknownCommand":0.001}}
